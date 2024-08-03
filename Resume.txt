@@ -1,0 +1,79 @@
+Assignment: Python Functions, Loops, and String Operations
+Problem 1: Count Vowels
+Task: Write a function count_vowels(s) that takes a string s as input and returns the number of vowels (a, e, i, o, u) in the string.
+
+Problem 2: Reverse a String
+Task: Write a function reverse_string(s) that takes a string s as input and returns the string reversed.
+
+Problem 3: Sum of Even Numbers
+Task: Write a function sum_of_evens(n) that takes an integer n and returns the sum of all even numbers from 1 to n (inclusive).
+
+Problem 4: Palindrome Check
+Task: Write a function is_palindrome(s) that takes a string s and returns True if the string is a palindrome (reads the same forward and backward) and False otherwise.
+
+Problem 5: FizzBuzz
+Task: Write a function fizz_buzz(n) that takes an integer n and returns a list of numbers from 1 to n with the following rules:
+
+For multiples of 3, add "Fizz" instead of the number.
+For multiples of 5, add "Buzz" instead of the number.
+For numbers which are multiples of both 3 and 5, add "FizzBuzz".
+Problem 6: Capitalize Words
+Task: Write a function capitalize_words(s) that takes a string s and returns the string with the first letter of each word capitalized.
+
+Problem 7: Character Frequency
+Task: Write a function char_frequency(s) that takes a string s and returns a dictionary with the frequency of each character in the string.
+
+Problem 8: Generate Fibonacci Sequence
+Task: Write a function fibonacci(n) that takes an integer n and returns a list containing the first n numbers in the Fibonacci sequence.
+
+Problem 9: Remove Duplicates
+Task: Write a function remove_duplicates(s) that takes a string s and returns a new string with all duplicate characters removed.
+
+Problem 10: Factorial Calculation
+Task: Write a function factorial(n) that takes an integer n and returns the factorial of n using a loop.
+
+Submission Guidelines:
+Save each function in a separate .py file with the function name as the filename.
+Ensure that your code is well-documented with comments explaining each step.
+Include test cases for each function to demonstrate its correctness.
+questions should include all the type of loops
+ChatGPT
+Assignment: Python Functions, Loops, and String Operations
+Problem 1: Count Vowels
+Task: Write a function count_vowels(s) that takes a string s as input and returns the number of vowels (a, e, i, o, u) in the string. Use a for loop to iterate over the string.
+
+Problem 2: Reverse a String
+Task: Write a function reverse_string(s) that takes a string s as input and returns the string reversed. Use a while loop to reverse the string.
+
+Problem 3: Sum of Even Numbers
+Task: Write a function sum_of_evens(n) that takes an integer n and returns the sum of all even numbers from 1 to n (inclusive). Use a for loop to iterate through the range.
+
+Problem 4: Palindrome Check
+Task: Write a function is_palindrome(s) that takes a string s and returns True if the string is a palindrome (reads the same forward and backward) and False otherwise. Use a for loop to compare characters.
+
+Problem 5: FizzBuzz
+Task: Write a function fizz_buzz(n) that takes an integer n and returns a list of numbers from 1 to n with the following rules:
+
+For multiples of 3, add "Fizz" instead of the number.
+For multiples of 5, add "Buzz" instead of the number.
+For numbers which are multiples of both 3 and 5, add "FizzBuzz".
+Use a for loop to iterate through the range.
+Problem 6: Capitalize Words
+Task: Write a function capitalize_words(s) that takes a string s and returns the string with the first letter of each word capitalized. Use a for loop to iterate through the words.
+
+Problem 7: Character Frequency
+Task: Write a function char_frequency(s) that takes a string s and returns a dictionary with the frequency of each character in the string. Use a for loop to iterate through the string.
+
+Problem 8: Generate Fibonacci Sequence
+Task: Write a function fibonacci(n) that takes an integer n and returns a list containing the first n numbers in the Fibonacci sequence. Use a while loop to generate the sequence.
+
+Problem 9: Remove Duplicates
+Task: Write a function remove_duplicates(s) that takes a string s and returns a new string with all duplicate characters removed. Use a for loop to iterate through the string and a list to track seen characters.
+
+Problem 10: Factorial Calculation
+Task: Write a function factorial(n) that takes an integer n and returns the factorial of n using a loop. Use a while loop to calculate the factorial.
+
+Submission Guidelines:
+Save each function in a separate .py file with the function name as the filename.
+Ensure that your code is well-documented with comments explaining each step.
+Include test cases for each function to demonstrate its correctness.
